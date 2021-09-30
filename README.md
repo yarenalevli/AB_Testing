@@ -1,6 +1,6 @@
 # AB_Testing
 
-![alt text](https://github.com/yarenalevli/RFM_Project/blob/main/ab-testing.width-750.jpg)
+![alt text](https://github.com/yarenalevli/AB_Testing/blob/main/ab-testing.width-750.jpg)
 
 """
 ## The Business Problem
