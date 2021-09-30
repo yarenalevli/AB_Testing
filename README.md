@@ -4,7 +4,7 @@
 
 
 ## The Business Problem
-* Facebook recently introduced a new type of offer that is an alternative to the current type of bidding called maximum bidding
+*Facebook recently introduced a new type of offer that is an alternative to the current type of bidding called maximum bidding
 he introduced average bidding.One of our clients decided to test this new feature, and averagebidding,
 he wants to do an A/B test to see if it brings more conversions than maximumbidding.*
 
@@ -19,6 +19,6 @@ as well as information such as earnings information from here is included. There
 
 * Purchase - Indicates the number of purchased products after purchase (CLICKED ads.)*
 
-*Earning - Earnings (Earnings after purchased products)*
+* Earning - Earnings (Earnings after purchased products)*
 
 #### Reference: Veri Bilimi Okulu
