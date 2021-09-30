@@ -15,10 +15,10 @@ as well as information such as earnings information from here is included. There
 ## Variables
 * Impression - Number of ad views
 
-* Click - Click (Specifies the number of clicks on the displayed ad.)
+* Click - Specifies the number of clicks on the displayed ad.
 
 * Purchase - Indicates the number of purchased products after purchase (CLICKED ads.)
 
-* Earning - Earnings (Earnings after purchased products)
+* Earning - Earnings after purchased products
 
 #### Reference: Veri Bilimi Okulu
