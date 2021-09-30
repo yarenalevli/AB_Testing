@@ -41,7 +41,7 @@ plot(df_control.Purchase)
 plot(df_test.Purchase)
 
 # Assumption Control
-# if p-value < 0.05, then HO is REJECTED.
+# if p-value < 0.05, then H0 is REJECTED.
 # if p-value > 0.05, H0 CANNOT BE REJECTED.
 # H0: The normal distribution assumption is provided.
 # H1:..it is not provided.
