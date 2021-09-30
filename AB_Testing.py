@@ -11,10 +11,8 @@ pd.set_option('display.float_format', lambda x: '%.5f' % x)
 ################################################
 #Task 1: Define the hypothesis of the A/B test.
 ################################################
-df_control_ = pd.read_excel("Datasets/ab_testing.xlsx", sheet_name="Control Group")
-df_test_ = pd.read_excel("Datasets/ab_testing.xlsx", sheet_name="Test Group")
-df_control = df_control_.copy()
-df_test = df_test_.copy()
+df_control = pd.read_excel("Datasets/ab_testing.xlsx", sheet_name="Control Group")
+df_test = pd.read_excel("Datasets/ab_testing.xlsx", sheet_name="Test Group")
 
 def check_df(dataframe, head=5):
     print("##################### Shape #####################")
