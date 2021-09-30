@@ -13,12 +13,12 @@ The number of ads that users see and click on in this dataset containing the inf
 as well as information such as earnings information from here is included. There are two separate data sets, the Control and the Test group.
 
 ## Variables
-* Impression - Number of ad views*
+* Impression - Number of ad views
 
-* Click - Click (Specifies the number of clicks on the displayed ad.)*
+* Click - Click (Specifies the number of clicks on the displayed ad.)
 
-* Purchase - Indicates the number of purchased products after purchase (CLICKED ads.)*
+* Purchase - Indicates the number of purchased products after purchase (CLICKED ads.)
 
-* Earning - Earnings (Earnings after purchased products)*
+* Earning - Earnings (Earnings after purchased products)
 
 #### Reference: Veri Bilimi Okulu
